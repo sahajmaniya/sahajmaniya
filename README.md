@@ -1,6 +1,5 @@
 # 💫 About Me:
-🚀 Frontend Developer | UI/UX Enthusiast | Tech Explorer<br>💡 Turning ideas into sleek, interactive experiences with React, Tailwind CSS, GSAP, and Three.js<br>🛠️ Building, learning, and pushing boundaries in web development & animations<br>🌱 Always exploring new tech & crafting immersive UIs<br><br>🔗 Check out my work & let’s build something amazing!<br><br>This keeps it professional yet dynamic, reflecting your passion for frontend development and innovation. Let me know if you’d like any tweaks! 🚀🔥
-
+🚀 Frontend Developer | UI/UX Enthusiast | Tech Explorer<br>💡 Turning ideas into sleek, interactive experiences with React, Tailwind CSS, GSAP, and Three.js<br>🛠️ Building, learning, and pushing boundaries in web development & animations<br>🌱 Always exploring new tech & crafting immersive UIs<br><br>🔗 Check out my work & let’s build something amazing!<br><br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sahajmaniya1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahajmaniya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahajmaniya) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/sahaj1504) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahajmaniya111@gmail.com) 
